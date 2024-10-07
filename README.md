@@ -1,4 +1,4 @@
 # Установка (Termux)
 ```bash
-  pkg install curl -y && curl https://github.com/nesquikcode/tgcc-install/termux-install.sh && clear && sh termux-install.sh
+  pkg install curl -y && curl https://raw.githubusercontent.com/nesquikcode/tgcc-install/refs/heads/main/termux-install.sh && clear && sh termux-install.sh
 ```
